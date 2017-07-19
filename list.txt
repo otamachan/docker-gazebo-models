@@ -3,4 +3,5 @@ cafe_table
 ground_plane
 sun
 willowgarage
+cinder_block
 
